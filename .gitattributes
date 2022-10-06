@@ -1,1 +1,4 @@
-* linguist-language=Ruby
+*.h linguist-language=Ruby
+*.c linguist-language=Ruby
+*.rb linguist-language=Ruby
+Makefile linguist-language=Ruby
